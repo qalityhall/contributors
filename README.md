@@ -17,8 +17,10 @@ Open the list.md file in your preferred text editor. Add your information to the
 ```
 - **Name:** Your Name
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn URL)
+- **Github Profile:** Your Github URL
+- **LinkedIn:** Your LinkedIn URL
 - **Favorite Technologies:** Your favorite tech tools (max 5)
+---
 ```
 
 ## Committing Your Changes
