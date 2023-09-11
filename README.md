@@ -11,6 +11,15 @@ Thank you for your interest in contributing to our project! Follow the steps bel
    cd contributors
    ```
 
+## Create a New Branch
+Before making any changes, it's a good practice to create a new branch for your contributions. Replace <branch-name> with a descriptive name for your branch:
+
+```
+cd contributors
+git checkout -b <branch-name>
+```
+
+
 ## Editing the list.md
 Open the list.md file in your preferred text editor. Add your information to the end of the list in the following format:
 
@@ -27,7 +36,7 @@ Open the list.md file in your preferred text editor. Add your information to the
 In your terminal, stage your changes and commit them with a descriptive message:
 
 ```
-git add README.md
+git add list.md
 git commit -m "Add my information to list.md"
 ```
 
@@ -35,15 +44,16 @@ git commit -m "Add my information to list.md"
 Push your changes to the GitHub repository:
 
 ```
-git push origin main
+git push origin <branch-name>
 ```
 
 ## Creating a Pull Request (PR)
 - Visit the "contributors" repository on GitHub: https://github.com/qalityhall/contributors
 - Click on the "Pull Requests" tab.
 - Click the "New Pull Request" button.
-- In the "Compare" dropdown, select your branch (usually main).
-- Review your changes, add a title, and description for your pull request.
+- Set the "base" branch to main.
+- Set the "compare" branch to your <branch-name>.
 - Click the "Create Pull Request" button.
+- Add a title and description for your pull request, and - click "Create Pull Request" again.
 
-That's it! Your pull request will be reviewed by the project maintainers, and once approved, your information will be added to the README.md file. Thank you for contributing!
+That's it! Your pull request will be reviewed by the project maintainers, and once approved, your information will be added to the list.md file. Thank you for contributing!
