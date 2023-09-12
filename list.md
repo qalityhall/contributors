@@ -10,3 +10,13 @@
   - Jest
 
 ---
+
+- **Name:** Mario Andres Martinez Moya
+- **Email:** mmartinezm10@unicartagena.edu.co
+- **Github Profile:** https://github.com/Moya004
+- **LinkedIn:** www.linkedin.com/in/mario-mrtz-my
+- **Favorite Technologies:**
+  - Python
+  - Java
+
+---
