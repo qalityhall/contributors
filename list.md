@@ -20,3 +20,13 @@
   - Java
 
 ---
+
+- **Name:** Sebastian Arrieta Villarreal
+- **Email:** sarrietav@unicartagena.edu.co
+- **Github Profile:** github.com/sarrietav-dev
+- **LinkedIn:** linkedin.com/in/sarrietav
+- **Favorite Technologies:**
+  - Typescript
+  - React / Angular / Vue
+  - Go
+  - ASP.NET
