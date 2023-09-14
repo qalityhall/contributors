@@ -31,3 +31,14 @@
   - Python
 
 ---
+
+- **Name:** Isabella Alvarado Solera
+- **Email:** ialvarados@unicartagena.edu.co
+- **Github Profile:** https://github.com/Isa-30a
+- **LinkedIn:** www.linkedin.com/in/isabella-alvarado-43a46a287
+- **Favorite Technologies:**
+  - Flutter
+  - Java
+
+---
+
